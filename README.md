@@ -1,4 +1,4 @@
-# This repository is base repos. it used to create the app at the first step.
+# Email Marketing is a web application that uses Laravel 12 and Domain-Driven Design .
 
 1. backend folder: it is backend code of application, it also support api to frontend
 - It containers laravel and Dockerfile. At the current. It is only Dockerfile
