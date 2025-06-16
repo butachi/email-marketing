@@ -1,6 +1,6 @@
 # Email Marketing is a web application that uses Laravel 12 and Domain-Driven Design .
 
-1. backend folder: it is backend code of application, it also support api to frontend
+1. backend folder: it is backend code of application, it also support api
 - It containers laravel and Dockerfile. At the current. It is only Dockerfile
 
 2. deployment: this folder holding the config files
